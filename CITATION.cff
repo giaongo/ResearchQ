@@ -57,6 +57,4 @@ preferred-citation:
       given-names: "Istiaque"
     - family-names: "Mandol"
       given-names: "Souvik"
-  year: 2026  # [TODO: update on JOSS acceptance]
-  # journal: "Journal of Open Source Software"
-  # doi: ""  # [TODO: JOSS DOI once published]
+  year: 2026
